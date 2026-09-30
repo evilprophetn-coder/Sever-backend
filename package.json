@@ -1,1 +1,13 @@
 
+{
+  "name": "sever-backend",
+  "version": "1.0.0",
+  "type": "module",
+  "private": true,
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "start": "node src/server.js"
+  }
+}
